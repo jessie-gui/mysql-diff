@@ -1,10 +1,11 @@
 package helper
 
 import (
-	"github.com/fsnotify/fsnotify"
-	"github.com/spf13/viper"
 	"log"
-	"mysql-diff/model"
+
+	"github.com/fsnotify/fsnotify"
+	"github.com/jessie-gui/mysql-diff/model"
+	"github.com/spf13/viper"
 )
 
 // NewConfig /**

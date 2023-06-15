@@ -2,7 +2,8 @@ package main
 
 import (
 	"log"
-	"mysql-diff/cmd"
+
+	"github.com/jessie-gui/mysql-diff/cmd"
 )
 
 /**

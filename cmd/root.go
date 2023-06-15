@@ -2,9 +2,10 @@ package cmd
 
 import (
 	"fmt"
+
+	"github.com/jessie-gui/mysql-diff/core"
+	"github.com/jessie-gui/mysql-diff/helper"
 	"github.com/spf13/cobra"
-	"mysql-diff/core"
-	"mysql-diff/helper"
 )
 
 func init() {

@@ -1,4 +1,4 @@
-module mysql-diff
+module github.com/jessie-gui/mysql-diff
 
 go 1.18
 
